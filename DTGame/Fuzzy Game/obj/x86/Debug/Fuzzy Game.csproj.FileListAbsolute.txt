@@ -1,0 +1,68 @@
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\background.xnb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\player.xnb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Fuzzy Game.exe
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Fuzzy Game.pdb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\obj\x86\Debug\Fuzzy Game.csprojResolveAssemblyReference.cache
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\obj\x86\Debug\Fuzzy Game.exe
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\obj\x86\Debug\Fuzzy Game.pdb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Fuzzy Game.exe
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Fuzzy Game.pdb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\obj\x86\Debug\Fuzzy Game.csprojResolveAssemblyReference.cache
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\obj\x86\Debug\Fuzzy Game.exe
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\obj\x86\Debug\Fuzzy Game.pdb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\shadow.xnb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\orb.xnb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\orb.xnb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\shadow.xnb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\onepixl.xnb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\hitboxtest.xnb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\arrow.xnb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\arrow.xnb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\hitboxtest.xnb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\onepixl.xnb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\goalie.xnb
+E:\Onedrive\Dokument\Visual Studio 2015\Projects\Fuzzy Game\Fuzzy Game\bin\Windows\x86\Debug\Content\goalie.xnb
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\DTGame\Fuzzy Game\obj\x86\Debug\Fuzzy Game.exe
+C:\Users\felix\OneDrive\Dokument\Visual Studio 2015\Projects\DTGame\Fuzzy Game\obj\x86\Debug\Fuzzy Game.pdb

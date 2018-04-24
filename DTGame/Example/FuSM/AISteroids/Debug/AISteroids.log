@@ -1,0 +1,37 @@
+﻿  HumanControl.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\utility.h(4): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  GameSession.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\gamesession.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  asteroids.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\asteroids.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Target.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\target.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Ship.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\ship.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Saucer.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\saucer.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Powerup.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\powerup.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  GameObj.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\gameobj.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Exp.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\exp.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Bullet.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\bullet.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  Ast.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\ast.cpp(1): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  utility.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\utility.cpp(5): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  FuSMMachine.cpp
+  FStateGetPowerup.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\utility.h(4): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  FStateEvade.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\utility.h(4): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  FStateAttack.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\utility.h(4): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  FStateApproach.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\utility.h(4): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  FuSMAIControl.cpp
+c:\users\felix\onedrive\dokument\visual studio 2015\projects\fuzzy game\example\fusm\utility.h(4): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  AIControl.cpp
+  Generating Code...

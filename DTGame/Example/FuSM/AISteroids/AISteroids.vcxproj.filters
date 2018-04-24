@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="AI Controllers">
+      <UniqueIdentifier>{5aeded82-3d5e-4cc8-98d1-d025ecbfbe0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AI Method Files">
+      <UniqueIdentifier>{592e7206-7b05-4588-a4b3-bfe7ae37b9c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{c136d2d0-9fb0-4b0e-ae5a-919b892a7e1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects">
+      <UniqueIdentifier>{fa52505c-aa9d-4f5d-85c6-76350d32476f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\AIControl.cpp">
+      <Filter>AI Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FuSMAIControl.cpp">
+      <Filter>AI Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FStateApproach.cpp">
+      <Filter>AI Method Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FStateAttack.cpp">
+      <Filter>AI Method Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FStateEvade.cpp">
+      <Filter>AI Method Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FStateGetPowerup.cpp">
+      <Filter>AI Method Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\FuSMMachine.cpp">
+      <Filter>AI Method Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\utility.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Ast.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Bullet.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Exp.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\GameObj.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Powerup.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Saucer.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Ship.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Target.cpp">
+      <Filter>Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\asteroids.cpp" />
+    <ClCompile Include="..\GameSession.cpp" />
+    <ClCompile Include="..\HumanControl.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\AIControl.h">
+      <Filter>AI Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FuSMAIControl.h">
+      <Filter>AI Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FStateApproach.h">
+      <Filter>AI Method Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FStateAttack.h">
+      <Filter>AI Method Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FStateEvade.h">
+      <Filter>AI Method Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FStateGetPowerup.h">
+      <Filter>AI Method Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FuSM.h">
+      <Filter>AI Method Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FuSMMachine.h">
+      <Filter>AI Method Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\FuSMState.h">
+      <Filter>AI Method Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Point3.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Sphere3.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\utility.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Ast.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Bullet.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Exp.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\GameObj.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Powerup.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Saucer.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Ship.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Target.h">
+      <Filter>Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Control.h" />
+    <ClInclude Include="..\GameSession.h" />
+    <ClInclude Include="..\HumanControl.h" />
+  </ItemGroup>
+</Project>
