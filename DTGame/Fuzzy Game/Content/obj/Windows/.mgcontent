@@ -4,13 +4,13 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/player.png</File>
-    <File>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/background.png</File>
-    <File>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/shadow.png</File>
-    <File>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/orb.png</File>
-    <File>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/onepixl.png</File>
-    <File>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/hitboxtest.png</File>
-    <File>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/arrow.png</File>
-    <File>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/goalie.png</File>
+    <File>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/player.png</File>
+    <File>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/background.png</File>
+    <File>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/shadow.png</File>
+    <File>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/orb.png</File>
+    <File>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/onepixl.png</File>
+    <File>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/hitboxtest.png</File>
+    <File>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/arrow.png</File>
+    <File>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/goalie.png</File>
   </SourceFiles>
 </SourceFileCollection>

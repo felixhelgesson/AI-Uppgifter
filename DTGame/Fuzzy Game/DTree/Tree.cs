@@ -19,9 +19,9 @@ namespace DT_Game.DTree
         public Node Insert(int value, bool question,
             DTenemy enemy, State behaviour)
         {
-            Node node = new Node(value, question, enemy, behaviour); try
+           Node node = new Node(value, question, enemy, behaviour); try
             {
-                if (root == null)
+               if (root == null)
                 {
                     root = node;
                 }
@@ -31,8 +31,6 @@ namespace DT_Game.DTree
             {
                 return null;
             }
-
-
         }
 
         private void Add(Node node, ref Node tempNode)
@@ -83,7 +81,6 @@ namespace DT_Game.DTree
                         return currentNode.behaviour;
                     }
                 }
-
             }
             return null;
         }

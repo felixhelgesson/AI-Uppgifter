@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/background.png</SourceFile>
+  <SourceFile>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/background.png</SourceFile>
   <SourceTime>2017-02-17T13:03:14+01:00</SourceTime>
-  <DestFile>E:/Onedrive/Dokument/Visual Studio 2015/Projects/DTGame/Fuzzy Game/Content/bin/Windows/background.xnb</DestFile>
-  <DestTime>2018-04-24T16:36:18.6980632+02:00</DestTime>
+  <DestFile>F:/GitHub/AI-Uppgifter/AI-Uppgifter/DTGame/Fuzzy Game/Content/bin/Windows/background.xnb</DestFile>
+  <DestTime>2018-04-25T10:38:10.1157041+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using DT_Game.DTree;
 
 namespace DT_Game
 {
@@ -13,9 +14,10 @@ namespace DT_Game
     {
         //Objects---------------------------------
         Player p;
-        StandardEnemy e;
+        StandardEnemy enemy;
         StandardEnemy e2;
         StandardEnemy[] enemies;
+        DTenemy dtEnemy;
         AimControl aC;
         //----------------------------------------
         //Misc------------------------------------
@@ -34,6 +36,7 @@ namespace DT_Game
         float size;
         bool haveBall = false;
         bool enemyHaveBall = false;
+        bool farFromBall;
         Vector2 origin;
         float timer = 0;
         int pxToUnit = 1000;
@@ -42,7 +45,7 @@ namespace DT_Game
         float dTB; // Distance to Ball
         //----------------------------------------------
 
-        public Orb(Texture2D tex, Vector2 pos, Rectangle hitBox, Color c, float size, Player p, StandardEnemy enemy, StandardEnemy enemy2, AimControl aC) : base(tex, pos, hitBox)
+        public Orb(Texture2D tex, Vector2 pos, Rectangle hitBox, Color c, float size, Player p, StandardEnemy enemy, StandardEnemy enemy2, DTenemy dtEnemy , AimControl aC) : base(tex, pos, hitBox)
         {
             //Declarations--------------------
             this.tex = tex;
@@ -52,7 +55,8 @@ namespace DT_Game
             this.hitBox = hitBox;
             this.p = p;
             this.aC = aC;
-            e = enemy;
+            this.dtEnemy = dtEnemy;
+            this.enemy = enemy;
             e2 = enemy2;
             //--------------------------------
         }
@@ -65,7 +69,7 @@ namespace DT_Game
             kS = new KeyboardState();
             aC.setPos = p.GetPlayerPos;
             dir = new Vector2(0, 0);
-            enemies = new StandardEnemy[] { e, e2 };
+            enemies = new StandardEnemy[] { enemy, e2 };
 
         }
         public override void Update(GameTime gT)
@@ -86,7 +90,7 @@ namespace DT_Game
                 pos.X = p.GetPlayerPos.X + 12;
                 pos.Y = p.GetPlayerPos.Y - 30;
 
-                if (p.getHitBox.Intersects(e.getHitbox))
+                if (p.getHitBox.Intersects(dtEnemy.getHitbox))
                 {
                     if (p.GetAiming == false)
                     {
@@ -109,10 +113,10 @@ namespace DT_Game
             }
             if (enemyHaveBall)
             {
-                pos.X = e.GetEnemyPos.X + 12;
-                pos.Y = e.GetEnemyPos.Y - 30;
+                pos.X = dtEnemy.GetEnemyPos.X + 12;
+                pos.Y = dtEnemy.GetEnemyPos.Y - 30;
 
-                if (p.getHitBox.Intersects(e.getHitbox))
+                if (p.getHitBox.Intersects(dtEnemy.getHitbox))
                 {
                     if (timer > 200)
                     {
@@ -133,7 +137,8 @@ namespace DT_Game
 
         void UpdateWeight()
         {
-            dTB = Vector2.Distance(pos, e.GetEnemyPos);
+            dTB = Vector2.Distance(pos, dtEnemy.GetEnemyPos);
+
         }
 
         public static float Angle(Vector2 from, Vector2 to)
@@ -168,7 +173,6 @@ namespace DT_Game
             get { return dTB / pxToUnit; }
         }
 
-
         //Have Ball-Properties
 
         public bool PlayerHaveBall
@@ -180,6 +184,12 @@ namespace DT_Game
         {
             get { return enemyHaveBall; }
             set { enemyHaveBall = value; }
+        }
+
+        public bool FarFromBall
+        {
+            get { return farFromBall; }
+            set { farFromBall = value; }
         }
 
 

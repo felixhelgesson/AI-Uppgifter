@@ -25,11 +25,8 @@ namespace DT_Game.DTree.States
             Vector2 diff;
             diff = o.getPos - enemy.GetEnemyPos;
             diff = Vector2.Normalize(diff);
+            enemy.GetEnemyPos += diff * Constants.speed;
 
-            if (enemy.GoalReady == false)
-            {
-                enemy.GetEnemyPos += diff;
-            }
             enemy.getHitBoxX = (int)enemy.GetEnemyPos.X;
             enemy.getHitBoxY = (int)enemy.GetEnemyPos.Y;
             base.UpdateBehaviour(gameTime);

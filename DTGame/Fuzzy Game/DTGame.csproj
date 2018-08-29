@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="AimControl.cs" />
     <Compile Include="Constants.cs" />
+    <Compile Include="DTree\DTController.cs" />
     <Compile Include="DTree\DTenemy.cs" />
     <Compile Include="DTree\States\ChaseState.cs" />
     <Compile Include="DTree\States\GuardState.cs" />

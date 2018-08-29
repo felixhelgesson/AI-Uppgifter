@@ -23,25 +23,16 @@ namespace DT_Game.DTree.States
 
         public override void UpdateBehaviour(GameTime gameTime)
         {
-            if (o.GetDistanceToBall <= 0.1f)
-            {
-                enemy.GoalReady = true;
-                Vector2 diff;
-                diff = pGoal.GetGoalPos - enemy.GetEnemyPos;
-                diff = Vector2.Normalize(diff);
-                enemy.GetEnemyPos += diff;
-                o.EnemyHaveBall = true;
-                o.PlayerHaveBall = false;
 
-                if (enemy.GetDistanceToGoal <= 0.1f)
-                {
+ 
+            Vector2 diff;
+            diff = pGoal.GetGoalPos - enemy.GetEnemyPos;
+            diff = Vector2.Normalize(diff);
+            enemy.GetEnemyPos += diff * Constants.speed;
 
-                    o.EnemyHaveBall = false;
-                    o.PlayerHaveBall = false;
-                    o.MadeGoal();
-                    enemy.GoalReady = false;
-                }
-            }
+            enemy.getHitBoxX = (int)enemy.GetEnemyPos.X;
+            enemy.getHitBoxY = (int)enemy.GetEnemyPos.Y;
+
             base.UpdateBehaviour(gameTime);
         }
     }

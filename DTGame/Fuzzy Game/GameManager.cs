@@ -29,6 +29,7 @@ namespace DT_Game
 
         //AI----------------------------------------
         FuSMachine fuSM;
+        DTController dtController;
         //------------------------------------------
 
         //States------------------------------------------------
@@ -70,16 +71,17 @@ namespace DT_Game
 
             //--------------------------------------------------
 
+            //DecisionTree Enemy-----------------------------------------
+            dtEnemy = new DTenemy(tM.getTexture(3), new Vector2(50, 450), hitBoxes, tM, pGoal, Color.Purple);
+            //------------------------------------------------------------
+           
             //Orb-----------------------------------------------
             aC = new AimControl(tM.getTexture(5), Vector2.Zero, p);
-            orb = new Orb(tM.getTexture(4), Constants.GetRandomPos(), hitBoxes, Color.Red, 0.1f, p, stEnemy1, stEnemy2, aC);
+            orb = new Orb(tM.getTexture(4), Constants.GetRandomPos(), hitBoxes, Color.Red, 0.1f, p, stEnemy1, stEnemy2, dtEnemy, aC);
             orb.Init();
 
             //--------------------------------------------------
 
-            //DecisionTree Enemy-----------------------------------------
-            dtEnemy = new DTenemy(tM.getTexture(3), new Vector2(50, 450), hitBoxes, tM, pGoal, Color.Purple);
-            //------------------------------------------------------------
 
             //FuSM----------------------------------------------
             //fuSM = new FuSMachine(p, orb, stEnemy1, stEnemy2, eGoal, pGoal);
@@ -91,21 +93,10 @@ namespace DT_Game
             sS = new ScoreState(dtEnemy, orb, pGoal, eGoal);
             //--------------------------------------------------
 
-            MakeDtree();
-            Console.WriteLine(tree.DrawTree());
+            dtController = new DTController(dtEnemy, orb, tree, cS, gS, sS, pGoal, eGoal);
 
         }
 
-        public Tree MakeDtree()
-        {
-            tree = new Tree(dtEnemy);
-            tree.Insert(1, true, dtEnemy, gS);
-            tree.Insert(6, true, dtEnemy, cS);
-            tree.Insert(9, true, dtEnemy, sS);
-            // Console.WriteLine(tree.DrawTree());
-
-            return tree;
-        }
 
         public void Update(GameTime gT)
         {
@@ -113,16 +104,20 @@ namespace DT_Game
             stEnemy1.Update(gT);
             stEnemy2.Update(gT);
             orb.Update(gT);
+            dtEnemy.Update(gT);
+            dtController.Update(gT);
             //fuSM.Update(gT);
         }
 
         public void Draw(SpriteBatch sB)
         {
             sB.Draw(tM.getTexture(0), Vector2.Zero, Color.White);
-            stEnemy1.Draw(sB);
+            //stEnemy1.Draw(sB);
             //stEnemy2.Draw(sB);
             p.Draw(sB);
             orb.Draw(sB);
+            dtEnemy.Draw(sB);
+
 
         }
     }

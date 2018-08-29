@@ -64,3 +64,36 @@ E:\Onedrive\Dokument\Visual Studio 2015\Projects\DTGame\Fuzzy Game\bin\Windows\x
 E:\Onedrive\Dokument\Visual Studio 2015\Projects\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.RawInput.xml
 E:\Onedrive\Dokument\Visual Studio 2015\Projects\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
 E:\Onedrive\Dokument\Visual Studio 2015\Projects\DTGame\Fuzzy Game\obj\x86\Debug\DTGame.csprojResolveAssemblyReference.cache
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\obj\x86\Debug\DTGame.exe
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\obj\x86\Debug\DTGame.pdb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\Content\arrow.xnb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\Content\background.xnb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\Content\goalie.xnb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\Content\hitboxtest.xnb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\Content\onepixl.xnb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\Content\orb.xnb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\Content\player.xnb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\Content\shadow.xnb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\DTGame.exe
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\DTGame.pdb
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+F:\GitHub\AI-Uppgifter\AI-Uppgifter\DTGame\Fuzzy Game\obj\x86\Debug\DTGame.csprojResolveAssemblyReference.cache

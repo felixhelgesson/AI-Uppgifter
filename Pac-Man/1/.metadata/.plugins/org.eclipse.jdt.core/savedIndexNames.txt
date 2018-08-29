@@ -1,0 +1,20 @@
+INDEX VERSION 1.129+F:\GitHub\AI-Uppgifter\AI-Uppgifter\Pac-Man\1\.metadata\.plugins\org.eclipse.jdt.core
+1527471103.index
+1780846695.index
+2941132256.index
+2040531194.index
+1444947957.index
+4216540180.index
+3894954566.index
+3146942291.index
+4034194947.index
+1983841950.index
+797087866.index
+1139415645.index
+2408687072.index
+2388801356.index
+3222336739.index
+3929128467.index
+3625022774.index
+2726317313.index
+2633928816.index
